@@ -17,3 +17,13 @@ chmod +x wireguard-install.sh
 ```bash
 ./wireguard-install.sh
 ```
+## Для удалеие VPN сервера или удаления / добавления пользователей просто запустите скрипт повтороно и выбирете нудное действие
+
+# WireGuard VPN Client
+
+## Linux
+
+### Войдем по SSH на Linux сервер, после входа в систему проверим, обновлена ли машина, выполнив следующую команду:
+```
+sudo apt-get update && sudo apt-get upgrade
+```
