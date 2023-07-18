@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Secure WireGuard server installer
-# https://github.com/angristan/wireguard-install
 
 RED='\033[0;31m'
 ORANGE='\033[0;33m'
